@@ -26,7 +26,7 @@
 
 ![](imgs/2.png)
 
-![](imgs/3.png)
+![](imgs/result.png)
 
 
 ### 5. Анализ результатов
